@@ -6,9 +6,9 @@ import App from './components/app';
 import Index from './components/index';
 
 ReactDOM.render((
-  <Router>
-    <Route path="/" component={App}>
-      <IndexRoute component={Index} />
-    </Route>
-  </Router>
+	<Router>
+		<Route path='/' component={App}>
+			<IndexRoute component={Index}/>
+		</Route>
+	</Router>
 ), document.getElementById('application'));
