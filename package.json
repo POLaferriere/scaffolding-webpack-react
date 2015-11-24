@@ -13,7 +13,7 @@
     "css-loader": "^0.20.2",
     "del": "^2.0.2",
     "eslint": "^1.6.0",
-    "foundation-sites": "^5.5.3",
+    "file-loader": "^0.8.4",
     "gulp": "^3.8.11",
     "gulp-gh-pages": "^0.5.2",
     "gulp-util": "^3.0.6",
@@ -29,6 +29,7 @@
     "react-router": "^1.0.0-rc3",
     "sass-loader": "^3.0.0",
     "style-loader": "^0.13.0",
+    "url-loader": "^0.5.6",
     "webpack": "^1.12.2",
     "webpack-dev-server": "^1.12.1"
   }
